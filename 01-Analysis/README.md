@@ -1,9 +1,9 @@
 # Введение в Анализ Данных
 
 ## Colab
-[Jupyter](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/1. Analysis/Jupyter.ipynb)
-[Numpy](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/1. Analysis/Numpy.ipynb)
-[Pandas](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/1. Analysis/Pandas.ipynb)
+[Jupyter](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Jupyter.ipynb)
+[Numpy](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Numpy.ipynb)
+[Pandas](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Pandas.ipynb)
 
 
 ## План
