@@ -4,6 +4,7 @@
 [Jupyter](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Jupyter.ipynb)
 [Numpy](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Numpy.ipynb)
 [Pandas](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Pandas.ipynb)
+[Home1](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-Analysis/Home1.ipynb)
 
 
 ## План
@@ -13,10 +14,10 @@
   * Разбор схемы МЛ
   * Разбор профессий
 * Jupyter-notebook, jupyter-lab, colab
-* Формат сдачи домашнего задания
 
 -- Перерыв
 
+* Формат сдачи домашнего задания
 * Разбор ноутбука по numpy
 
 -- Перерыв
