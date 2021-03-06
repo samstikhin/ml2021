@@ -1,8 +1,8 @@
-# Введение в Анализ Данных
+# Введение в Машинное Обучение
 
 ## Colab
-[IntroML](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-IntroML/IntroML.ipynb)
-[Home2](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/02-IntroML/Home2.ipynb)
+* [IntroML](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/01-IntroML/IntroML.ipynb)
+* [Home2](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/02-IntroML/Home2.ipynb)
 
 
 ## План
