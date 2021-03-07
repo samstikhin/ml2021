@@ -1,8 +1,8 @@
-# Введение в Машинное Обучение
+# Линейные алгоритмы
 
 ## Colab
-* [IntroML](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/02-IntroML/IntroML.ipynb)
-* [Home2](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/02-IntroML/Home2.ipynb)
+* [Linear](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/03-Linear/linear.ipynb)
+* [Home3](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/03-Linear/Home3.ipynb)
 
 
 ## План
@@ -17,4 +17,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 22.03.21 в 9 утра](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
+[Дедлайн 22.03.21 в 9 утра](https://ulearn.me/course/ml/Matrichnye_proizvodnye_2ae75f17-75b9-41f9-80dd-4b2d854fe65d)
