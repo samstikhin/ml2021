@@ -17,4 +17,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 13.03.21 в 9 утра](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
+[Дедлайн 15.03.21 в 9 утра](https://ulearn.me/course/ml/Pervoe_obuchenie_81c95dbe-44a2-4dfa-93bb-4a23a0a30794)
