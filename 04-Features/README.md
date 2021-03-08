@@ -1,8 +1,9 @@
 # 4. Метрики и обработка признаков
 
 ## Colab
-* [Linear](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/03-Linear/linear.ipynb)
-* [Home3](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/03-Linear/Home3.ipynb)
+* [Metrics](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Metrics.ipynb)
+* [Features](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Metrics.ipynb)
+* [Home4](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Home4.ipynb)
 
 
 ## План
@@ -12,7 +13,7 @@
 
 -- Перерыв
 * Feature Engineering (30 мин)
-* Обработка категориальных фичей (30 мин)
+* Запас (30 мин)
 
 
 ## Домашнее задание
