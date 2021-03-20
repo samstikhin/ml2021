@@ -2,7 +2,7 @@
 
 ## Colab
 * [Metrics](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Metrics.ipynb)
-* [Features](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Metrics.ipynb)
+* [Features](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Features.ipynb)
 * [Home4](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Home4.ipynb)
 
 
