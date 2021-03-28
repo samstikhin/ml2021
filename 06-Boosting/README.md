@@ -18,4 +18,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 12.04.21 в 9 утра](https://ulearn.me/course/ml/Osnovy_metrik_klassifikatsii_a49e9baa-faab-4861-8bed-c36b8f30c945)
+[Дедлайн 12.04.21 в 9 утра](https://ulearn.me/course/ml/X_regression_bff768cf-f9df-4afd-967b-e7b86931c8ae)
