@@ -5,15 +5,17 @@
 * [Features](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Features.ipynb)
 * [Home4](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/04-Features/Home4.ipynb)
 
+## Запись
+[Youtube](https://youtu.be/C_X9FdK6rkY)
 
 ## План
+* Повтор лог-регрессии (20 мин)
 * Метрики (30 мин)
 * Кросс-валидация (10 мин)
-* Классификация OvO, OvR (20 мин)
 
 -- Перерыв
+* Классификация OvO, OvR (20 мин)
 * Feature Engineering (30 мин)
-* Запас (30 мин)
 
 
 ## Домашнее задание

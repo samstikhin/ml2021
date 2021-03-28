@@ -5,6 +5,8 @@
 * [RF](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/RF.ipynb)
 * [Home5](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/Home5.ipynb)
 
+## Запись
+[Youtube](https://www.youtube.com/watch?v=L8qFnNBxKyI)
 
 ## План
 * Дерево решений (30 мин)
