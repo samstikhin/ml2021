@@ -1,10 +1,10 @@
 # Бустинг
 
 ## Colab
-* [AdaBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/1-AdaBoost.ipynb)
-* [GradBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/2-GradBoost.ipynb)
-* [XGBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/3-Xgboost.ipynb)
-* [CatBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/05-DTandRF/4-CatBoost.ipynb)
+* [AdaBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/1-AdaBoost.ipynb)
+* [GradBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/2-GradBoost.ipynb)
+* [XGBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/3-Xgboost.ipynb)
+* [CatBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/4-CatBoost.ipynb)
 
 ## Запись
 
