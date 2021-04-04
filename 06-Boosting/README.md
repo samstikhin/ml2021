@@ -5,6 +5,7 @@
 * [GradBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/2-GradBoost.ipynb)
 * [XGBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/3-Xgboost.ipynb)
 * [CatBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/4-CatBoost.ipynb)
+* [Home6](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/Home6.ipynb)
 
 ## Запись
 [Youtube](https://youtu.be/LeiTSRrMfok)
