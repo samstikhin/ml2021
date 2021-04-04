@@ -7,12 +7,14 @@
 * [CatBoost](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/06-Boosting/4-CatBoost.ipynb)
 
 ## Запись
+[Youtube](https://youtu.be/LeiTSRrMfok)
 
 ## План
-* AdaBoost (40 мин)
+* AdaBoost (30 мин)
 * GradBoost (40 мин)
 
 -- Перерыв
+* GradBoost свойства (20 мин)
 * Xgboost (20 мин)
 * Catboost (20 мин)
 
