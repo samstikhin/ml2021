@@ -2,7 +2,8 @@
 
 ## Colab
 * [Pytorch](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/07-NN/pytorch.ipynb)
-* [NeuralNets](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/07-NN/NN.ipynb)
+* [Perceptron](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/07-NN/Perceptron.ipynb)
+* [Backprop](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/07-NN/Backprop.ipynb)
 * [Home7](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/07-NN/Home7.ipynb)
 
 
