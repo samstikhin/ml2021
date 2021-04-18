@@ -19,4 +19,4 @@
 
 
 ## Домашнее задание
-[Без дедлайна](https://ulearn.me/course/ml/Osnovy_metrik_klassifikatsii_a49e9baa-faab-4861-8bed-c36b8f30c945)
+[Без дедлайна](https://ulearn.me/course/ml/Kannabola_ea40b39f-aabf-4f78-896c-a51def6b04eb)

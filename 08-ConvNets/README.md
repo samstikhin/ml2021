@@ -7,6 +7,8 @@
 * [ImageNet](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/ImageNet.ipynb)
 * [Home8](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/Home8.ipynb)
 
+## Запись 
+[youtube](https://youtu.be/KC78aZTrs5s)
 
 ## План
 * Напоминание про алгоритм бэкпроп (15 мин)
@@ -19,4 +21,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 01.05.21 в 9 утра](https://ulearn.me/course/ml/Osnovy_metrik_klassifikatsii_a49e9baa-faab-4861-8bed-c36b8f30c945)
+[Дедлайн 03.05.21 в 9 утра](https://ulearn.me/course/ml/Osnovy_metrik_klassifikatsii_a49e9baa-faab-4861-8bed-c36b8f30c945)
