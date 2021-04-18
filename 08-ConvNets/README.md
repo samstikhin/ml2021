@@ -21,4 +21,4 @@
 
 
 ## Домашнее задание
-[Дедлайн 03.05.21 в 9 утра](https://ulearn.me/course/ml/Osnovy_metrik_klassifikatsii_a49e9baa-faab-4861-8bed-c36b8f30c945)
+[Дедлайн 03.05.21 в 9 утра](https://ulearn.me/course/ml/CrossEntropyLoss_44ac5922-7023-4574-b0f7-deba1f48cf84)
