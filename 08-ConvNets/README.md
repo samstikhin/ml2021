@@ -3,7 +3,7 @@
 ## Colab
 * [Classification](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/Classification.ipynb)
 * [BatchData](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/BatchData.ipynb)
-* [Convolutions](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/Convolutions.ipynb)
+* [Convolutions](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/Conv.ipynb)
 * [ImageNet](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/ImageNet.ipynb)
 * [Home8](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/08-ConvNets/Home8.ipynb)
 
