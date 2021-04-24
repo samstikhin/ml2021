@@ -1,7 +1,7 @@
 # 9. NLP (Natural Language Processing)
 
 ## Colab
-* [Embeddings](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/09-NLP/Classification.ipynb)
+* [Embeddings](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/09-NLP/Embeddings.ipynb)
 * [JobPrediction](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/09-NLP/JobPrediction.ipynb)
 * [RNN](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/09-NLP/RNN.ipynb)
 * [JobNet](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/09-NLP/ImageNet.ipynb)
@@ -11,12 +11,9 @@
 
 
 ## План
-* Эмбеддинги (40 мин)
-* Job Salary Prediction (20 мин)
-
+* Эмбеддинги (1 час)
 -- Перерыв
-* RNN, LSTM, GRU (40 мин)
-* Job Salary LSTM (20 мин)
+* Job Salary Prediction (1 час)
 
 
 ## Домашнее задание
