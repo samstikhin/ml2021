@@ -4,7 +4,7 @@
 * [Clustering](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/Clustering.ipynb)
 * [TimeSeries](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/TS.ipynb)
 * [Stock kaggle](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/stock_kaggle.ipynb)
-* [NP-Recommendations](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/NP-Recommendation.ipynb)
+* [NP-Recommendations](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/NP.ipynb)
 * [Collaborative](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/Collaborative.ipynb)
 * [Home10](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/Home10.ipynb)
 
