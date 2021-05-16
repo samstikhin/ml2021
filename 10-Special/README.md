@@ -9,7 +9,7 @@
 * [Home10](https://colab.research.google.com/github/samstikhin/ml2021/blob/master/10-Special/Home10.ipynb)
 
 ## Запись 
-
+https://youtu.be/SycuNMPbdvo
 
 ## План
 * Clustering (30 мин)
